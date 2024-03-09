@@ -85,6 +85,9 @@ Endpoint for retrieving logs for a specific user.
   }
   ```
 
+  ![Screenshot 2024-03-09 at 2 49 57 PM](https://github.com/chethanreddy123/StapleIO-Task/assets/69640722/59a582c8-6946-4f5a-9348-b67d084b5630)
+
+
 ## Testing
 
 This project includes both load testing and unit testing to ensure the robustness and reliability of the application.
@@ -110,6 +113,11 @@ To perform load testing using Locust, follow these steps:
 5. Click "Start Swarming" to initiate the load testing.
 
 Locust will simulate user behavior and generate a report detailing the application's performance under various loads.
+
+![Screenshot 2024-03-09 at 2 50 44 PM](https://github.com/chethanreddy123/StapleIO-Task/assets/69640722/7b4a9e93-01db-439b-9e0b-bb68608afeb1)
+
+![Screenshot 2024-03-09 at 2 50 52 PM](https://github.com/chethanreddy123/StapleIO-Task/assets/69640722/37638598-3c24-44a1-967d-5c5d4499a11b)
+
 
 ### Unit Testing with unittest
 
