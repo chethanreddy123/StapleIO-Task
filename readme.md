@@ -24,6 +24,12 @@ To start the application, use the following command:
 python main.py
 ```
 
+Add Openai API key in the .env file
+
+```bash
+OPENAI_API_KEY='API KEY'
+```
+
 This will launch the Flask API, and the application will be accessible at `http://127.0.0.1:5000`.
 
 ## API Endpoints
